@@ -8,8 +8,8 @@ This project perform **camera calibration** and then uses the calibration result
 [Youtube](https://youtu.be/gzxQPgYAVTI)
 
 ## Input Data
-1. 'data/chessboard.MOV': Video taken with an iPhone. Less distortion. -> Insignificant change.
-2. 'data/chessboard.avi': Sample video with high distortion. -> Signigicant change.
+1. 'data/chessboard.MOV': Video taken with an iPhone. Less distortion. -> **Insignificant change.**
+2. 'data/chessboard.avi': Sample video with high distortion. -> **Signigicant change.**
 
 ## How to Run
 1. The chessboard video will start playing
